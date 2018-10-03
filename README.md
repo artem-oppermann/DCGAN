@@ -3,7 +3,7 @@ Deep convolutional generative adversarial network (DCGAN)for image generation. T
 
 ## Celebrity Faces Generation
 
-The model was trained on about 200.000 images of celebrities (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html). Here are some cropped image examples from the dataset:
+The model was trained on about 200.000 images of celebrities (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html). Here are some cropped image examples from the dataset:<br/>
 ![alt text](https://github.com/artem-oppermann/DCGAN/blob/master/Celeb_faces/original%20samples/0.jpg)
 ![alt text](https://github.com/artem-oppermann/DCGAN/blob/master/Celeb_faces/original%20samples/1.jpg)
 ![alt text](https://github.com/artem-oppermann/DCGAN/blob/master/Celeb_faces/original%20samples/2.jpg)
