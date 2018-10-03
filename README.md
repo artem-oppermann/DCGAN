@@ -5,7 +5,7 @@ Deep convolutional generative adversarial network (DCGAN)for image generation. T
 
 The model was trained on about 200.000 images of celebrities (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html). Here are some cropped image examples from the dataset:<br/><br/>
 
-While the model is training on the original images, it generates samples at the same time. Here are some samples generated after 100, 500, 2500 and 5000 training iterations: <br/><br/>
+While the model is training on the original images, it generates samples at the same time. Below are some samples generated after 100, 500, 2500 and 5000 training iterations. The training time until the 5000th iteration took about 1 hour on a GTX 760. To generate photorealistic samples more powerfull graphic cards is required as well as much longer training time (>24 h). <br/><br/>
 ![alt text](https://github.com/artem-oppermann/DCGAN/blob/master/Celeb_faces/original%20samples/0.jpg)
 ![alt text](https://github.com/artem-oppermann/DCGAN/blob/master/Celeb_faces/original%20samples/1.jpg)
 ![alt text](https://github.com/artem-oppermann/DCGAN/blob/master/Celeb_faces/original%20samples/2.jpg)
