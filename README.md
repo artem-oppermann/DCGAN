@@ -19,5 +19,8 @@ While the model is training on the original images, it generates samples at the 
 
 ## MNIST Generation
 
+In this example the model is trained on the famous hand written digits dataset (MNIST). : <br/><br/>
 ![alt text](https://github.com/artem-oppermann/DCGAN/blob/master/MNIST/original%20samples/mnist_samples.png)
+
+After each epoch one sample is generated. In the end the progress of MNIST generation is summurized in a .gif:  <br/><br/>
 ![alt text](https://github.com/artem-oppermann/DCGAN/blob/master/MNIST/generated%20samples/MNIST_DCGAN_generation_animation.gif)
