@@ -1,5 +1,5 @@
 # DCGAN
-Deep convolutional adversarial network for image generation.
+Deep convolutional generative adversarial network (DCGAN)for image generation. The DCGAN model in `src`
 
 ## Celebrity Faces Generation
 ![alt text](https://github.com/artem-oppermann/DCGAN/blob/master/Celeb_faces/original%20samples/0.jpg)
