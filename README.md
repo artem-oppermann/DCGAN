@@ -24,3 +24,16 @@ In this example the model is trained on the famous hand written digits dataset (
 
 After each epoch one sample is generated. In the end the progress of MNIST generation is summurized in a .gif:  <br/><br/>
 ![alt text](https://github.com/artem-oppermann/DCGAN/blob/master/MNIST/generated%20samples/MNIST_DCGAN_generation_animation.gif)
+
+
+
+
+
+|   | Movie Nr.1   | Movie Nr.2  | Movie Nr.3   | Movie Nr.4   | Movie Nr.5   | Movie Nr.6  | Movie Nr.7  |
+|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
