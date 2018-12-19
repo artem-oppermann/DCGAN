@@ -31,9 +31,9 @@ After each epoch one sample is generated. In the end the progress of MNIST gener
 
 |   | Movie Nr.1   | Movie Nr.2  | Movie Nr.3   | Movie Nr.4   | Movie Nr.5   | Movie Nr.6  | Movie Nr.7  |
 |---|---|---|---|---|---|---|---|
-|  **User Nr. 1** |   |   |   |   |   |   |   |
-|  **User Nr. 2** |   |   |   |   |   |   |   |
-|  **User Nr. 3** |   |   |   |   |   |   |   |
-|  **User Nr. 4** |   |   |   |   |   |   |   |
-|  **User Nr. 5** |   |   |   |   |   |   |   |
-|  **User Nr. 6** |   |   |   |   |   |   |   |
+|  **User Nr. 1** |  0 | 0  |  4 | 0  | 1  | 0   | 3  |
+|  **User Nr. 2** | 2  |  5 |  2 |  0 | 0  |  2 |  4 |
+|  **User Nr. 3** | 0  | 0  |  5 | 3  | 2  | 4  | 0  |
+|  **User Nr. 4** | 1  |  0 |  0 | 4  | 0  | 0  |  1 |
+|  **User Nr. 5** |  2 |  3 |  0 |  0 | 0  | 5  | 0  |
+|  **User Nr. 6** |  1 |  4 | 5  | 0  |  2 | 0  | 5  |
