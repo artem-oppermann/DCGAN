@@ -26,21 +26,3 @@ After each epoch one sample is generated. In the end the progress of MNIST gener
 ![alt text](https://github.com/artem-oppermann/DCGAN/blob/master/MNIST/generated%20samples/MNIST_DCGAN_generation_animation.gif)
 
 
-
-
-|   | **movie_1**  | **movie_2**  |  **movie_3** | **movie_4**  | **movie_5**  | **movie_6**  | **movie_7**  |  **movie_8**  |  **movie_9**  |  **movie_10**  |  **movie_11**  |  **movie_12**  |  **movie_13**  |  **movie_14**  |  **movie_15**  | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  **user_1** | 2  | 0  | 1 | 5  | 0  | 5  | 0  |  4  | 2  | 4  | 0  | 1  | 4  | 5  | 0 |
-|  **user_2** |  0 |  4 | 3  |  1 |  5 |  3 | 0  |  2  | 4  | 0  | 5  | 0  | 0  | 3  | 4 |
-
-
-|   | **movie_1**  | **movie_2**  |  **movie_3** | **movie_4**  | **movie_5**  | **movie_6**  | **movie_7**  |  **movie_8**  |  **movie_9**  |  **movie_10**  |  **movie_11**  |  **movie_12**  |  **movie_13**  |  **movie_14**  |  **movie_15**  | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  **user_1** | 2  | 0  | 1 | 5  | 0  | 5  | 0  |  4  | 2  | 4  | **0**  | **0**  | **0**  | **0**  | **0** |
-|  **user_2** |  0 |  4 | 3  |  1 |  5 |  3 | 0  |  2  | 4  | 0  | **0**  | **0**  | **0**  | **0**  | **0** |
-
-
-|   | **movie_1**  | **movie_2**  |  **movie_3** | **movie_4**  | **movie_5**  | **movie_6**  | **movie_7**  |  **movie_8**  |  **movie_9**  |  **movie_10**  |  **movie_11**  |  **movie_12**  |  **movie_13**  |  **movie_14**  |  **movie_15**  | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  **user_1** | **0**  | **0**  | **0** | **0**  | **0**  | **0**  | **0**  |  **0**  | **0**  | **0**  | 0  | 1  | 4  | 5  | 0 |
-|  **user_2** |  **0** |  **0** | **0**  |  **0** |  **0** |  **0** | **0**  | **0** | **0**  | **0**  | 5  | 0  | 0  | 3  | 4 |
