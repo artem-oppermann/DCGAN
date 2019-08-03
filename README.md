@@ -30,7 +30,7 @@ After each epoch one sample is generated. In the end the progress of MNIST gener
 
 |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
-|  ####user_1 |   |   |   |   |   |   |   |
+|  #### user_1 |   |   |   |   |   |   |   |
 |  user_2 |   |   |   |   |   |   |   |
 |  user_3 |   |   |   |   |   |   |   |
 |  user_4 |   |   |   |   |   |   |   |
