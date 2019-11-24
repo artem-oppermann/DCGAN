@@ -36,3 +36,4 @@ After each epoch one sample is generated. In the end the progress of MNIST gener
 |.|  .| .  |  .| .  | .  | .| .| |
 |.|  .| .  |  .| .  | .  | .| .| |
 |100 000|  08.07.2007| Oldenburg  |  Bürokaufmann| 36 000  | 3000  | 3| 17| |
+|100 001|  05.10.2009| Hamburg  |  Industriemechaniker| 32 000  | 9000  | 0| 87| |
