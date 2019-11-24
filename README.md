@@ -32,3 +32,4 @@ After each epoch one sample is generated. In the end the progress of MNIST gener
 | 27.08.2005  | Hannover  | Lehrer  | 52 000  | 12 000  | | 2| 50|
 |  12.04.2018 | Hamburg  |  Lastkraftwagenfahrer| 38 000  | 14 000  | 0| 85| |
 |  01.09.2019| Hamburg  |  Admin| 42 000  | 32 000  | 1| 75| |
+|  .| .  |  .| .  | .  | .| .| |
