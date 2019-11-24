@@ -26,3 +26,8 @@ After each epoch one sample is generated. In the end the progress of MNIST gener
 ![alt text](https://github.com/artem-oppermann/DCGAN/blob/master/MNIST/generated%20samples/MNIST_DCGAN_generation_animation.gif)
 
 
+| Kunde seit  |Wohnort   | Beruf  | Einkommen  | Vermögensverhältnisse  | Verzug von Kreditraten| Credit-Score|
+|---|---|---|---|---|---|---|
+|   |   |   |   |   | | | |
+|   |   |   |   |   | | | |
+|   |   |   |   |   | | | |
