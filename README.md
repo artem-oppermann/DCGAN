@@ -26,10 +26,13 @@ After each epoch one sample is generated. In the end the progress of MNIST gener
 ![alt text](https://github.com/artem-oppermann/DCGAN/blob/master/MNIST/generated%20samples/MNIST_DCGAN_generation_animation.gif)
 
 
-| Kunde seit  |Wohnort   | Beruf  | Einkommen  | Vermögensverhältnisse  | Verzug von Kreditraten| Credit-Score|
-|---|---|---|---|---|---|---|
-| 01.02.2012  | Bremen  | IT-Manager  | 69 000  | 120 000 | 0 | 98| |
-| 27.08.2005  | Hannover  | Lehrer  | 52 000  | 12 000  | | 2| 50|
-|  12.04.2018 | Hamburg  |  Lastkraftwagenfahrer| 38 000  | 14 000  | 0| 85| |
-|  01.09.2019| Hamburg  |  Admin| 42 000  | 32 000  | 1| 75| |
-|  .| .  |  .| .  | .  | .| .| |
+|   | Kunde seit  |Wohnort   | Beruf  | Einkommen  | Vermögensverhältnisse  | Verzug von Kreditraten| Credit-Score|
+|---|---|---|---|---|---|---|---|
+|1| 01.02.2012  | Bremen  | IT-Manager  | 69 000  | 120 000 | 0 | 98| |
+|2| 27.08.2005  | Hannover  | Lehrer  | 52 000  | 12 000  | | 2| 50|
+|3|  12.04.2018 | Hamburg  |  Lastkraftwagenfahrer| 38 000  | 14 000  | 0| 85| |
+|4|  01.09.2019| Hamburg  |  Admin| 42 000  | 32 000  | 1| 75| |
+|.|  .| .  |  .| .  | .  | .| .| |
+|.|  .| .  |  .| .  | .  | .| .| |
+|.|  .| .  |  .| .  | .  | .| .| |
+|100 000|  08.07.2007| Oldenburg  |  Bürokaufmann| 36 000  | 3000  | 3| 17| |
