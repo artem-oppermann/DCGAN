@@ -35,3 +35,11 @@ After each epoch one sample is generated. In the end the progress of MNIST gener
 |CEO |
 |Lehrer|
 
+| Job  | 
+|---|
+|0|
+|1 |
+|2 |
+|3|
+|4 |
+|5|
