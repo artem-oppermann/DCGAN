@@ -43,7 +43,7 @@ After each epoch one sample is generated. In the end the progress of MNIST gener
 |51|
 
 | 42 Jahre  | 33 Jahre |  21 Jahre | 51 Jahre |
-|---|---|---|---|---|---|
+|---|---|---|---|
 |1 | 0  | 0  | 0  | 
 |0 | 1  | 0  | 0  | 
 |0 | 0  | 1  | 0  | 
