@@ -48,8 +48,7 @@ After each epoch one sample is generated. In the end the progress of MNIST gener
 |0 | 1  | 0  | 0  | 
 |0 | 0  | 1  | 0  | 
 |0 |  0  | 0  |  1 | 
-|0 | 0  | 0  | 0  | 
-|0 | 0  |  0 | 0  |
+
 
 | Ingenieur  |Mechaniker |  Admin | Rentner | CEO  | Lehrer |
 |---|---|---|---|---|---|
