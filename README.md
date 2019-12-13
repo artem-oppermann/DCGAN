@@ -28,9 +28,10 @@ After each epoch one sample is generated. In the end the progress of MNIST gener
 
 | Job  | 
 |---|
-| |
-| |
-| |
-| |
-| |
-| |
+|Ingenieur|
+|Mechaniker |
+|Admin |
+|Rentner|
+|CEO |
+|Lehrer|
+
