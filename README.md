@@ -26,36 +26,3 @@ After each epoch one sample is generated. In the end the progress of MNIST gener
 ![alt text](https://github.com/artem-oppermann/DCGAN/blob/master/MNIST/generated%20samples/MNIST_DCGAN_generation_animation.gif)
 
 
-| Job  | 
-|---|
-|Ingenieur|
-|Mechaniker |
-|Admin |
-|Rentner|
-|CEO |
-|Lehrer|
-
-| Alter in Jahren  | 
-|---|
-|42|
-|33 |
-|21 |
-|51|
-
-| 42 Jahre  | 33 Jahre |  21 Jahre | 51 Jahre |
-|---|---|---|---|
-|1 | 0  | 0  | 0  | 
-|0 | 1  | 0  | 0  | 
-|0 | 0  | 1  | 0  | 
-|0 |  0  | 0  |  1 | 
-
-
-| Ingenieur  |Mechaniker |  Admin | Rentner | CEO  | Lehrer |
-|---|---|---|---|---|---|
-|1 | 0  | 0  | 0  | 0  | 0  |
-|0 | 1  | 0  | 0  | 0  | 0  |
-|0 | 0  | 1  | 0  | 0  | 0  |
-|0 |  0  | 0  |  1 | 0  | 0  |
-|0 | 0  | 0  | 0  | 1  |  0 |
-|0 | 0   |  0 | 0  | 0  | 1  |
-
